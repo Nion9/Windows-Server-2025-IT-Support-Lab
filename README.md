@@ -585,7 +585,7 @@ The report contains the implementation details, configuration tables, testing pr
 
 ### 🗺️ Network Diagram
 
-[**View the Network Architecture Diagram**](Network-Diagram/Network_Architecture_Diagram)
+[**View the Network Architecture Diagram**](Network-Diagram/Network_Architecture_Diagram.png)
 
 ### 📷 Screenshots
 
