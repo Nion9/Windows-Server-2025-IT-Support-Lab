@@ -579,7 +579,7 @@ Windows-Server-2025-IT-Support-Lab/
 
 ### 📄 Full Technical Report
 
-[**Read the Windows Server 2025 Project Report**](Documentation/Windows-server-2025-IT-Support-Project_Report)
+[**Read the Windows Server 2025 Project Report**](Documentation/Windows-server-2025-IT-Support-Project_Report.pdf)
 
 The report contains the implementation details, configuration tables, testing procedures, troubleshooting notes, and screenshot evidence index.
 
