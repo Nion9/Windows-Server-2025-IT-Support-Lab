@@ -579,13 +579,13 @@ Windows-Server-2025-IT-Support-Lab/
 
 ### 📄 Full Technical Report
 
-[**Read the Windows Server 2025 Project Report**](Documentation/AussieTech_WS2025_Project_Report.docx)
+[**Read the Windows Server 2025 Project Report**](Documentation/Windows-server-2025-IT-Support-Project_Report)
 
 The report contains the implementation details, configuration tables, testing procedures, troubleshooting notes, and screenshot evidence index.
 
 ### 🗺️ Network Diagram
 
-[**View the Network Architecture Diagram**](Network-Diagram/AussieTech-Network-Architecture.png)
+[**View the Network Architecture Diagram**](Network-Diagram/Network_Architecture_Diagram)
 
 ### 📷 Screenshots
 
